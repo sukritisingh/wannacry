@@ -1,0 +1,2 @@
+# wannacry
+Analyzing wannacry.exe
